@@ -30,7 +30,7 @@ To make up for this however, the decay of epsilon was set to a lower value (from
 
 ## Plot of Rewards
 
-
+![plot](/plot.png)
 
 ## Ideas for Future Work
 
