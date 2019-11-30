@@ -2,6 +2,10 @@
 
 Navigation problem in a Unity environment solved with Deep Q Learning algorithm
 
+![banana](https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif)
+
+*Source: https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation*
+
 ## Project Details
 
 The project aims at training an agent to navigate and collect bananas in a large, square world.
